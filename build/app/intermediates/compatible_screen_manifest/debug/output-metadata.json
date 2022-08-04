@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.flutter9spl.flutter_base_9spl",
+  "variantName": "debug",
+  "elements": []
+}
